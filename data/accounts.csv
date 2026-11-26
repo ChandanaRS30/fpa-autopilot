@@ -1,0 +1,17 @@
+account,name,pnl_line,cost_centre,product
+4000,Revenue courses,Revenue,Revenue,Courses
+4010,Revenue coaching,Revenue,Revenue,Coaching
+5000,Tutor costs courses,COGS,Delivery,Courses
+5010,Tutor costs coaching,COGS,Delivery,Coaching
+5100,Payment and platform fees,COGS,Delivery,
+6000,Paid ads,OpEx,Marketing,
+6010,Content production,OpEx,Marketing,
+6020,Events and fairs,OpEx,Marketing,
+6100,Sales salaries,OpEx,Sales,
+6110,Sales commissions,OpEx,Sales,
+6200,Tech salaries,OpEx,Tech,
+6210,Cloud hosting,OpEx,Tech,
+6220,Software licences,OpEx,Tech,
+6300,Rent,OpEx,G&A,
+6310,Admin salaries,OpEx,G&A,
+6320,Legal and accounting,OpEx,G&A,
